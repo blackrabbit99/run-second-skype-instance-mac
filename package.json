@@ -1,0 +1,17 @@
+{
+  "name": "run-second-skype-instance-mac",
+  "version": "1.0.0",
+  "description": "Run startSkype.sh to run your second skype instance.",
+  "main": "startSkype.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "skype",
+    "mac",
+    "second",
+    "instance"
+  ],
+  "author": "Artem Zakharchenko",
+  "license": "ISC"
+}
